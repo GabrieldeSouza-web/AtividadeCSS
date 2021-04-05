@@ -1,0 +1,198 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  }
+
+body{
+
+    background-color: black;
+
+}
+
+#rolagem{
+    background-color: black;
+    margin-top: -3%;
+    
+    
+
+}
+
+.bbb{
+    
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    text-align: center;
+
+
+}
+
+.nott{
+    color: white;
+}
+
+
+#lado{
+
+    align-items: center;
+}
+
+
+#tb{
+  text-align: right;
+}
+
+
+#tab{
+    color: white;
+}
+
+#parte1{
+    
+    
+    background-color: #0e395e; 
+    color: white;
+    height: 40px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1001;
+    
+    
+}
+
+
+
+#parte2{
+    
+    background-color: rgba(238, 228, 85, 0.85); 
+    color: black;
+    
+    
+    
+}
+
+
+#parte3{
+    display: block;
+    color: white;
+    text-align: center;
+    
+    
+
+}
+
+
+
+
+.pac{
+    text-align: left;
+    margin-top: 6%;
+    margin-left: 5%;
+    /* align-items: center; */
+    border-radius: 9%;
+}
+
+#texto{
+    margin: 0%;
+    padding: 2%;
+    
+}
+
+
+.parte4{
+    margin: 0%;
+    height: 250px;
+    text-align: center;
+    border: 0;
+    display: flex;
+    overflow-x: auto;
+
+}
+/* .parte4::-webkit-scrollbar{
+    width: 10%;
+} */
+
+.parte4 .item{
+    min-width: 220px;
+    height: 220px;
+    line-height: 220px;
+    text-align: center;
+    background-color: transparent;
+    margin-right: 0px;
+}
+
+
+
+.parte5{
+    margin: 5%;
+    padding: 5%;
+    background-color:  rgba(195, 205, 151, 0.85); 
+    border-radius: 15px;
+    text-align: center;
+}
+
+.tab1{
+    background-color: transparent;
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+
+}
+
+h3{
+    color: white;
+}
+
+
+.parte6{
+    margin: 5%;
+    padding: 5%;
+    color: white;
+    background-color:  rgba(195, 205, 151, 0.85); 
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+#inputt{
+    
+    margin: 5%;
+    padding: 14px 40px;
+    border-radius: 25px;
+    border-width: 10px;
+    border-color: teal;
+    background-color: rgba(195, 205, 151, 0.85);
+    color: white;    
+    font-size: 1em;
+    
+    
+}
+
+#buttonenv{
+    margin: 5%;
+    padding: 20px 30px;
+    border-radius: 25px;
+    border-width: 10px;
+    border-color: teal;
+    background-color: rgba(195, 205, 151, 0.85);
+    color: white;
+}
+
+.parte7{
+    margin-top: 0%;
+    text-align: center;
+
+    padding: 5%;
+    color: white;
+    background-color: rgba(195, 205, 151, 0.85);
+   
+    
+    
+}
+
+#titulo{
+    color: white;
+}
+
+
